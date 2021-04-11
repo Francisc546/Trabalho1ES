@@ -23,9 +23,11 @@ Ao escolhermos a 2ª opção ele imprime os funcionarios da clinica e disponibil
 ![opcao2](https://user-images.githubusercontent.com/49655530/114287992-8ba1ab00-9a63-11eb-8018-0e778c4fc102.jpg)
 
 Ao escolhermos a 3ª opção ele imprime a lista dos clientes e pede qual o número do cliente que queremos o relatório
+
 ![opcao3 1](https://user-images.githubusercontent.com/49655530/114288034-ee934200-9a63-11eb-84b8-d64ee6384312.jpg)
 
 Neste caso só temos 1 cliente registado por isso escrevi o número desse cliente mas como ainda não tinhamos adicionado nenhuma consulta, frequência ou serviço ao cliente ele só tem as informações básicas preenchidas no relatório
+
 ![opcao3 2](https://user-images.githubusercontent.com/49655530/114288077-35813780-9a64-11eb-9f52-e528d1a905f8.jpg)
 
 Portanto vamos usar a 5ª opção e depois voltar a gerir o relatório
@@ -44,15 +46,19 @@ Agora voltando a repetir a 3ª opção e selecionando o mesmo cliente apresenta-
 
 A 4ª, 6ª, 7ª e 9ª opção são semelhantes variando apenas os dados que são pedidos para a criação de uma nova instância da classe da opção
 Opção 4:
+
 ![image](https://user-images.githubusercontent.com/49655530/114288235-bbea4900-9a65-11eb-91fe-06afbb11d877.png)
 
 Opção 6ª:
+
 ![image](https://user-images.githubusercontent.com/49655530/114288241-cb699200-9a65-11eb-9c1d-5a64538644e4.png)
 
 Opção 7:
+
 ![image](https://user-images.githubusercontent.com/49655530/114288247-e63c0680-9a65-11eb-8161-b7de9ab3a4b8.png)
 
 Opção 9:
+
 ![image](https://user-images.githubusercontent.com/49655530/114288254-f48a2280-9a65-11eb-9efe-9d50389e7438.png)
 
 
