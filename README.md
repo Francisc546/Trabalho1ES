@@ -49,7 +49,7 @@ Opção 4:
 
 ![image](https://user-images.githubusercontent.com/49655530/114288235-bbea4900-9a65-11eb-91fe-06afbb11d877.png)
 
-Opção 6ª:
+Opção 6:
 
 ![image](https://user-images.githubusercontent.com/49655530/114288241-cb699200-9a65-11eb-9c1d-5a64538644e4.png)
 
